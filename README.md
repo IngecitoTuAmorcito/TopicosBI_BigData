@@ -15,7 +15,6 @@
 14.  
 
 ## Metodologías
-- 
 - Arquitectura Medallon (ETL Avanzado) --> Lakehouse
 - Dama-Book (Gobierno de Datos)
 
@@ -24,4 +23,4 @@
 #####
 
 © 2026 Euler Verástegui
-Este trabajo esta Bajo Licencia [Creative Commons Attribution 4.0 International] (LICENSE)
+Este trabajo esta Bajo Licencia [Creative Commons Attribution 4.0 International](LICENSE)
